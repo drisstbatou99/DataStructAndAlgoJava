@@ -1,9 +1,22 @@
 package com.ds;
 
+class Student {
+	String name;
+	int age;
+	public Student (String name,int age) {
+		this.name= name;
+		this.age=age;
+	}
+	public void println() {
+		System.out.println(name+" "+ Integer.toString(age));
+	}
+}
+
+
 public class OneDArray {
 
-	public static void main(String[] args) {
-		
+	static void OneDArrayMain() {
+		System.out.println("======================OneDArrayMain=========================");
 		//normal numbers
 		System.out.println("===========normal numbers==============");
 		int [] numbers = new int[5];
