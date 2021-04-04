@@ -5,7 +5,8 @@ public class Main {
 	static final boolean DynamicArrayMain_EN = false;
 	static final boolean LinkedListTesterMain_EN = false;
 	static final boolean HashTableTesterMain_EN = false;
-	static final boolean StackTesterMain_EN = true;
+	static final boolean StackTesterMain_EN = false;
+	static final boolean QueueTesterMain_EN= true;
 	
 	public static void main(String[] args) {
 
@@ -15,6 +16,7 @@ public class Main {
 		if(LinkedListTesterMain_EN) LinkedListTester.LinkedListTesterMain();
 		if(HashTableTesterMain_EN) HashTableTester.HashTableTesterMain();
 		if(StackTesterMain_EN) StackTester.StackTesterMain();
+		if(QueueTesterMain_EN) QueueTester.QueueTesterMain();
 	}
 
 }
