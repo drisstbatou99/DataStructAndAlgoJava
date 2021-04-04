@@ -18,3 +18,4 @@ Section 3 : Datastructure:
 ==>5 HashTable
 	- hash a number then store it in a linked list
 ==>6 Stack : ArrayStack
+		   : StackDArray : dynamic Array
