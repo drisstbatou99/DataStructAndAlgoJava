@@ -1,6 +1,6 @@
 package com.ds;
 
-public class TwoDArray {
+public class TwoDArrayTester {
 	
 	static void TwoDArrayMain() {
 		

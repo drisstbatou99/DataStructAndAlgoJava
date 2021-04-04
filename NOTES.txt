@@ -8,3 +8,7 @@ Section 3 : Datastructure:
     Exemple in java using one dimension array
 ==>2 Dimension Array struct
 	Exemple in java using two dimension array
+==>3 Dynamic array
+	Exemple in java using Dynamic Array
+	- Same structure as array and have same BigO
+	- Issue of normal array is fixed size which is resolved now.

@@ -13,7 +13,7 @@ class Student {
 }
 
 
-public class OneDArray {
+public class OneDArrayTester {
 
 	static void OneDArrayMain() {
 		System.out.println("======================OneDArrayMain=========================");
