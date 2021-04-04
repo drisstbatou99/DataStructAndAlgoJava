@@ -1,7 +1,8 @@
-find Complexity :
-1 : +, - , /, *, if  => 1 step
-2: Loop, subroutine => n step
-3: memory qccess => 1 Step
+Section 2:
+==>1find Complexity :
+	1 : +, - , /, *, if  => 1 step
+	2: Loop, subroutine => n step
+	3: memory qccess => 1 Step
 
 Section 3 : Datastructure:
 ==>1 Dimension Array struct
@@ -12,3 +13,5 @@ Section 3 : Datastructure:
 	Exemple in java using Dynamic Array
 	- Same structure as array and have same BigO
 	- Issue of normal array is fixed size which is resolved now.
+==>4 linkedList:
+	oneDirection LinkedList, doubleLinkedList, CircularLinkedList
