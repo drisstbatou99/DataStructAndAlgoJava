@@ -4,5 +4,7 @@ find Complexity :
 3: memory qccess => 1 Step
 
 Section 3 : Datastructure:
-1 Dimension Array struct
-Exemple in java using one dimension array
+==>1 Dimension Array struct
+    Exemple in java using one dimension array
+==>2 Dimension Array struct
+	Exemple in java using two dimension array
