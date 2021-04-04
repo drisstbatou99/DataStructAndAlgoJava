@@ -15,3 +15,5 @@ Section 3 : Datastructure:
 	- Issue of normal array is fixed size which is resolved now.
 ==>4 linkedList:
 	oneDirection LinkedList, doubleLinkedList, CircularLinkedList
+==>5 HashTable
+	- hash a number then store it in a linked list
