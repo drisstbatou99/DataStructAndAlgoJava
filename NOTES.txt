@@ -1,0 +1,8 @@
+find Complexity :
+1 : +, - , /, *, if  => 1 step
+2: Loop, subroutine => n step
+3: memory qccess => 1 Step
+
+Section 3 : Datastructure:
+1 Dimension Array struct
+Exemple in java using one dimension array
