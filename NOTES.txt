@@ -17,3 +17,4 @@ Section 3 : Datastructure:
 	oneDirection LinkedList, doubleLinkedList, CircularLinkedList
 ==>5 HashTable
 	- hash a number then store it in a linked list
+==>6 Stack : ArrayStack
